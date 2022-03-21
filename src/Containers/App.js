@@ -12,6 +12,13 @@ import Minting from '../Components/Minting/Minting';
 import github_api from '../Resources/util/github_api'
 import links_icons from '../Resources/constants/links_icons'
 
+const PORT = process.env.PORT || 3000;
+var server = App.listen(PORT, function() {
+    var host = server.address().address;
+    var port = server.address().port;
+    console.log("server is listening at http://%s:%s", host, port);
+});
+
 class App extends PureComponent {
   state = {
     tabs:[
