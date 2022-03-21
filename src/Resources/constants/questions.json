@@ -1,0 +1,47 @@
+[
+    {
+        "company" : "Why Bored Pandas",
+        "title" : "What makes our project different?",
+        "description" : 
+        [
+            "As early adopters of the Blockchain technology, our team stongly believes in the advantages of the decentralised web. We concede that the next generation of business ideas should not be controlled by centralised coorporations, but from the individuals who are using them. As a result of that we created a fully decentralised NFT collection to back up the development of our Web3 platform. Our primary focus is to become a market leader in the adventure travel sector, but the ultimate goal is to establish the largest decentralised travel service provider."
+        ]
+        
+    },
+    {
+        "company" : "Release info",
+        "title" : "What is the mint date and supply?",
+        "description" : 
+        [
+            "The mint date will be announced once our Discord community exceeds 15 000 members. The total supply will be 10 000 pandas. The max amount per transactions will be limited to 5 mints."
+        ]
+        
+    },
+    {
+        "company" : "How to return my investment",
+        "title" : "How to lend your NFT?",
+        "description" : 
+        [
+            "As we mentioned in the Roadmap, the adventure Web3 platform will be opened for everyone, however only owners of our collection will be able to host or join events. Therefore all other interested visitors should borrow a Bored Panda for the time period while the event is taking place. This provides a unique opportunity for the early adopters of our collection, because they will be able to lend or sell their panda at a higher price once the platform goes live."
+        ]
+        
+    },
+    {
+        "company" : "About the Web3 platform",
+        "title" : "What makes it unique?",
+        "description" : 
+        [
+            "The unique advantage of the Web3 platform is its DAO engineered governance. Being controlled by the community members and audited by smart contracts allows all operations to be transperant and publicly accessible to everyone. It is in the individual’s highest relevance to approve proposals that serve the best interest of the platform itself. A healthy and robust platform will attract more usage, and increase the value of the NFT collection."
+        ]
+        
+    },
+    {
+        "company" : "Usage info",
+        "title" : "How can I use my NFT collection?",
+        "description" : 
+        [
+            "Owning a Bored Panda NFT gives you the full rights to use the art for any purposes as long as it is not changed or modified. Your ownership will be recorded on Ethereum, so that you can prove it upon requests."
+        ]
+        
+    }
+]

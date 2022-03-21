@@ -1,0 +1,45 @@
+[
+    {
+        "company" : "Phase 1",
+        "title" : "Launch",
+        "duration" : "Date will be announced soon",
+        "description" : 
+        [
+            "10 000 Bored Pandas will be available for mint from our community members ",
+            "There will be no pre-sale"
+        ]
+        
+    },
+    {
+        "company" : "Phase 2",
+        "title" : "Development",
+        "description" : 
+        [
+            "Once the minting phase completes, the development of the web platform will begin, where all events will be hosted. Be aware that this is a unique Web3 platform where only Bored Panda owners will have access to.",
+            "However the platform will be opened for everyone. Meaning that if other people want to join an adventure, but are not owning a Bored Panda NFT, it would still be possible if they borrow some from the community members. That creates a business opportunity for the Bored Panda owners to earn money from renting or selling their NFTs."
+        ]
+        
+    },
+    {
+        "company" : "Phase 3",
+        "title" : "Release",
+        "description" : 
+        [
+            "Official release of the Web3 Platform",
+            "Owners of Bored Panda NFTs will be able to add or book places for events on the platform",
+            "Secondary market place will be created for Panda owners to lend their NFTs to new visitors of the platform"
+        ]
+        
+    },
+    {
+        "company" : "Phase 4",
+        "title" : "Growth",
+        "description" : 
+        [
+            "This phase will be focused on the growth and popularity of the Web3 Platform ",
+            "The goal is to become the market leader in the adventure travel sector, which is a niche market with 20,1% compound annual growth rate and a forecast to reach 1 Billion USD by 2028"
+
+        ]
+        
+    }
+]
