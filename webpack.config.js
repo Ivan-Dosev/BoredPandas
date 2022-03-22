@@ -37,10 +37,8 @@ module.exports = env => {
 	let BUILD_DIRECTORY_PREFIX;
 
 	if (env) {
-		//CLIENT_PORT = env.CLIENT_PORT;
-		//SERVER_PORT = env.SERVER_PORT;
-		CLIENT_PORT = process.env.PORT || 3000
-		SERVER_PORT = process.env.PORT || 3000
+		CLIENT_PORT = env.CLIENT_PORT;
+		SERVER_PORT = env.SERVER_PORT;
 		CLIENT_LOG_LEVEL = JSON.stringify(env.CLIENT_LOG_LEVEL || 'ERROR');
 		BUILD_DIRECTORY_PREFIX = env.BUILD_DIRECTORY_PREFIX;
 	}
